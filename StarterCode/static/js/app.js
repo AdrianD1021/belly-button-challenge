@@ -108,7 +108,7 @@ function buildBubblePlot (sampleID) {
          
         }];
 
-    
+    //Layout
     let layout = {
         xaxis: {title:"OTU ID"}
     };
